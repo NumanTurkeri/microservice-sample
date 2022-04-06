@@ -1,0 +1,2 @@
+# microservice-sample
+This project has been developed for educational examples. The project is mostly for technology education, so there are no logical links. The following technologies are used in this project. Spring Cloud eureka ,Spring cloud gateway,Mapstruct,Lombok,Global Exception handling, synchronous communication(Feign Client,Rest Template)asynchronous Communication(Rabbit mq),Hazelcast,Mysql
